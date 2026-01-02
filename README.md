@@ -22,4 +22,30 @@
  **图标**：Font Awesome 或 Element Plus Icons
  **样式**：Sass/SCSS（可选）
 
+ ##  快速开始
+
+### 环境要求
+- Node.js >= 16.0
+- npm >= 7.0 或 yarn >= 1.22
+
+### 安装与运行
+```bash
+# 克隆项目
+git clone https://github.com/wdlxr/Personal-Productivity-Toolbox.git
+
+# 进入目录
+cd productivity-toolkit
+
+# 安装依赖
+npm install
+
+# 启动开发服务器
+npm run dev
+
+# 构建生产版本
+npm run build
+
+# 预览构建结果
+npm run preview
+
 ##  项目结构
